@@ -1,15 +1,6 @@
-__AIRBNB CLONE V2__
+# Air_BnB with flask
 
-*Web_Flask*
+## Using Flask famework to create a web application
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## Tasks
 
-* What is a Web Framework
-* How to build a web framework with Flask
-* How to define routes in Flask
-* What is a route
-* How to handle variables in a route
-* What is a template
-* How to create a HTML response in Flask by using a template
-* How to create a dynamic template (loops, conditions…)
-* How to display in HTML data from a MySQL database
